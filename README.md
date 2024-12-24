@@ -15,11 +15,6 @@ Each file is named based on the functionality or topic it covers, making it easi
 
 ---
 
-## 🌟 Highlights  
-
-
----
-
 ## 🚀 How to Use  
 
 1. Clone the repository to your local machine using:  
